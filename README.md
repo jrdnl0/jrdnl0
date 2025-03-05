@@ -1,16 +1,16 @@
-## Hi there 👋
+# About Me 
+My name is Jacob Daniel, I am an ECE (electrical & computer engineering) from Charleston, SC and currently attending Clemson Univeristy.
 
-<!--
-**jrdnl0/jrdnl0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## My Activities 
+* Embedded developer / software engineer for the IEEE Robotics Team
+  > Experience with the Arduino and Micropython development environments
+  > Developing libraries for sensors such as the QMC5883L and BMI270
+  
+* ML / Applied Mathematics researcher with the Clemson School of Finance
+  > Applications of machine learning for predictive and classification models
+  > DevOps/Workflow for the computing side of my research
+  > Researching mathematical models / tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
