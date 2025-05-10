@@ -2,9 +2,9 @@
 My name is Jacob Daniel, I am an ECE (electrical & computer engineering) from Charleston, SC and currently attending Clemson Univeristy.
 
 #### Academic Stats:
-* 3.92 GPA (out of 4.0)
-* Current Standing: Sophmore
-* Dean's List: Spring 2024 
+* 3.84 GPA (out of 4.0)
+* Current Standing: Junior
+* Dean's List: Spring 2024 and Spring 2025
 * President's List: Fall 2024 and Fall 2025
 
 
