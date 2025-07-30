@@ -13,9 +13,10 @@ My name is Jacob Daniel, I am an ECE (electrical & computer engineering) from Ch
   - Experience with the Arduino and Micropython development environments<br>
   - Developing libraries for sensors such as the QMC5883L and BMI270
   
-* **ML / Applied Mathematics researcher with the Clemson School of Finance**
-  - Applications of machine learning for predictive and classification models<br>
-  - DevOps/Workflow for the computing side of my research<br>
+* **Photonic Engineering / Applied Mathematics researcher with Clemson Advanced Materials Research Lab**
+  - Currently researching ultrafast laser-material interaction
+  - Developing simulations in Python
+  - High-level mathematics and physics (mainly electromagnetics)
   - Researching mathematical models / tools<br>
 
 * **Lab Assistant in Riggs Hall (ECE Department Building)**
