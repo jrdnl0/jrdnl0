@@ -16,7 +16,7 @@ My name is Jacob Daniel, I am an ECE (electrical & computer engineering) from Ch
 * **Photonic Engineering / Applied Mathematics researcher with Clemson Advanced Materials Research Lab**
   - Currently researching ultrafast laser-material interaction
   - Developing simulations in Python
-  - High-level mathematics and physics (mainly electromagnetics)
+  - High-level mathematics and physics experience.
   - Researching mathematical models / tools<br>
 
 * **Lab Assistant in Riggs Hall (ECE Department Building)**
