@@ -1,8 +1,8 @@
 # About Me 
-Clemson University, SC
-Holcombe Department of Electrical and Computer Engineering
-Ask me about my double major and minor.
-Please don't ask me about my thinning hair.
+* Clemson University, SC
+* Holcombe Department of Electrical and Computer Engineering
+* Ask me about my double major and minor.
+* Please don't ask me about my thinning hair.
 
 #### Academic Stats:
 * 3.85 GPA (out of 4.0)
