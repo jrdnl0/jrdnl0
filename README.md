@@ -5,9 +5,9 @@
 * Please don't ask me about my thinning hair.
 
 #### Academic Stats:
-* 3.85 GPA (out of 4.0)
+* 3.9 GPA
 * Current Standing: Junior
-* Dean's List: Spring 2024 and Spring 2025
+* Dean's List: Spring 2024, Spring 2025, and Fall 2025
 * President's List: Fall 2024 and Fall 2025
 
 
